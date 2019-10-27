@@ -1,9 +1,9 @@
 Algoritmo ComprobarQueUnaFechaSeaValida
-	Escribir "Igrese el d’a"
+	Escribir "Ingrese el dâ€™a"
 	Leer dia
 	Escribir "Ingrese el mes"
 	Leer mes
-	Escribir "Ingrese el a–o"
+	Escribir "Ingrese el aâ€“o"
 	Leer ano
 	si ((dia<=31 y dia>=0) y (mes<=12 y mes>=0) y (ano>0)) Entonces
 		Escribir dia sin saltar
